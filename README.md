@@ -1,10 +1,11 @@
 # Predicting Analysis for Rental Bike Demand
 
 ## Table of Contents
-Introduction
-Dataset
-Methodology
-Technologies Used
+
+- [Introduction](#introduction)
+- [Dataset](#dataset)
+- [Methodology](#methodology)
+- [Technologies Used](#technologies-used)
 
 # Introduction
 
